@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1767246826 source:c:\c++\mecanica2.0\main.cpp
+	<iostream>
+	"simu.h"
+	<cmath>
+
+1767242070 c:\c++\mecanica2.0\simu.h
+	<string>
+	<cmath>
+
+1767242135 source:c:\c++\mecanica2.0\funções.cpp
+	<iostream>
+	"simu.h"
+	<cmath>
+
